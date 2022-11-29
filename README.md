@@ -1,6 +1,8 @@
 # postgresDocker
-Docker com  Postgres basico para testes
+Docker com PostgresSQL basico para testes
 
-docker pull devmurilomartins/postgre15alpine
+## docker pull devmurilomartins/postgre15alpine
+
+
 
 
